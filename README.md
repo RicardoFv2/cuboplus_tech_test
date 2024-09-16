@@ -1,4 +1,4 @@
 ### CUBO+ Technical Test
 
-[video]([link to video here](https://youtu.be/xuUookruOSQ))  
-[solution](link to the specific file of the solution in the repo)
+[video](https://youtu.be/xuUookruOSQ)  
+[solution](https://github.com/RicardoFv2/cuboplus_tech_test/blob/main/BTCHalvings.go)
